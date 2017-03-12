@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Carol Bogezi. I perform multidisciplinary research on wildlife conservation issues, particularly human-carnivore coexistence.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My lab coordinator is Dr. John Marzluff.
+
+In 2016, the Bullitt Foundation awarded me their 10th Environmental Leadership prize. The Bullitt prize is a huge honor for me and encourages me to continue investing in conservation, environment, and education.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cbogezi@uw.edu](mailto:cbogezi@uw.edu)
