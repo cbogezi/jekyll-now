@@ -8,7 +8,7 @@ I perform interdisciplinary research on wildlife conservation issues, particular
 
 ### More Information
 
-I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My lab advisor is Dr. John Marzluff.
+I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My lab advisor is [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10).
 
 In 2016, the Bullitt Foundation awarded me their 10th annual Environmental Leadership prize. The Bullitt prize is a huge honor for me and encourages me to continue investing in conservation, environment, and education.
 
@@ -32,10 +32,10 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 - March - Graduate Student Symposium [UW SEFS](http://www.cfr.washington.edu/):  *What fosters ranchers' commitment to participate in wolf conflict mitigation strategies?*
 
 **2015**
-- October - [Wildlife Conservation Network](www.wildnet.org) Expo
+- October - [Wildlife Conservation Network](http://www.wildnet.org) Expo
 
 ### Education
-- PhD candidate, [University of Washington-Seattle](www.uw.edu/sefs)
+- PhD candidate, [University of Washington-Seattle](http://www.uw.edu/sefs)
 
 - MSc, Environment & Natural Resources, Makerere University, Kampala, Uganda
 
