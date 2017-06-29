@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I perform multidisciplinary research on wildlife conservation issues, particularly human-carnivore coexistence.
+I perform interdisciplinary research on wildlife conservation issues, particularly human-carnivore coexistence.
 
 ### More Information
 
@@ -16,7 +16,8 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 ### Recent Talks / Conferences
 **2017**
-- May - invited speaker at Sammamish High School STEM Fair
+- June - invited speaker at [Olympic Natural Resources Center](http://www.onrc.washington.edu/), Forks, WA
+- May - invited speaker for STEM Fair at Sammamish High School, Bellevue, WA
 - May - keynote at Central Washington University, Ellensburg, WA
 - February - invited speaker at [Methow Valley Conservancy](http://www.methowarts.org/understanding-human-carnivore-interactions), Twisp, WA
 - February - [PRI article and interview](https://www.pri.org/stories/2017-02-24/how-washington-ranchers-are-learning-cope-wolves-lessons-uganda)
@@ -33,15 +34,22 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 **2015**
 - October - [Wildlife Conservation Network](www.wildnet.org) Expo
 
+### Education
+- PhD candidate, [University of Washington-Seattle](www.uw.edu/sefs)
+
+- MSc, Environment & Natural Resources, Makerere University, Kampala, Uganda
+
+- BSc, Zoology (Major); Botany & Psychology (Minor); Makerere University, Kampala, Uganda
+
 
 ### Awards / Scholarships
-- Bullitt Environmental Prize Fellowship
-
-- Beinecke Africa Wildlife Conservation Scholarship (Wildlife Conservation Society)
+- Bullitt Environmental Prize Fellowship, 2016
 
 - [Wildlife Conservation Network Scholarship](https://wildnet.org/what-we-do/scholarships), 2013
 
-- [Tropical Biology Association](http://www.tropical-biology.org/) Scholarship
+- Beinecke Africa Wildlife Conservation Scholarship ([Wildlife Conservation Society](http://www.wcs.org)), 2012
+
+- [Tropical Biology Association](http://www.tropical-biology.org/) Scholarship, 2009
 
 
 ### Contact me
