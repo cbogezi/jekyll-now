@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I perform interdisciplinary research on wildlife conservation issues, particularly human-carnivore coexistence.
+I perform interdisciplinary research on wildlife conservation issues, particularly human-carnivore coexistence in Washington State.
 
 ### More Information
 
-I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My lab advisor is [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10).
+I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My Urban Ecology lab advisor is [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10).
 
 In 2016, the Bullitt Foundation awarded me their 10th annual Environmental Leadership prize. The Bullitt prize is a huge honor for me and encourages me to continue investing in conservation, environment, and education.
 
@@ -43,13 +43,13 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 
 ### Awards / Scholarships
-- Bullitt Environmental Prize Fellowship, 2016
+- 2016 - [Bullitt Environmental Prize Fellowship](http://www.bullitt.org/programs/environmental-fellowship/)
 
-- [Wildlife Conservation Network Scholarship](https://wildnet.org/what-we-do/scholarships), 2013
+- 2013 - [Wildlife Conservation Network Scholarship](https://wildnet.org/what-we-do/scholarships)
 
-- Beinecke Africa Wildlife Conservation Scholarship ([Wildlife Conservation Society](http://www.wcs.org)), 2012
+- 2011 - Beinecke Africa Wildlife Conservation Scholarship ([Wildlife Conservation Society](http://www.wcs.org))
 
-- [Tropical Biology Association](http://www.tropical-biology.org/) Scholarship, 2009
+- 2009 - [Tropical Biology Association](http://www.tropical-biology.org/) Scholarship
 
 
 ### Contact me
