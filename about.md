@@ -23,6 +23,7 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 - February - [PRI article and interview](https://www.pri.org/stories/2017-02-24/how-washington-ranchers-are-learning-cope-wolves-lessons-uganda)
 
 **2016**
+- November - OneHealth Day presentation [video](https://www.facebook.com/centerforonehealthresearch/videos/1311889112175747), Center for One Health Research, University of Washington:     
 - October - [Student Conference on Conservation Science](http://www.amnh.org/var/ezflow_site/storage/images/sccs-ny-2016-presentation-1/2547309-1-eng-US/sccs-ny-2016-presentation-1.jpg)- New York, NY
 - September - Bullitt Environmental Prize Fellowship
   - related press:
@@ -36,6 +37,8 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 ### Education
 - PhD candidate, [University of Washington-Seattle](http://www.uw.edu/sefs)
+
+- Certificate, Nonprofit Management program[UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate)
 
 - MSc, Environment & Natural Resources, Makerere University, Kampala, Uganda
 
