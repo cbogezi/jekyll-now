@@ -38,7 +38,7 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 ### Education
 - PhD candidate, [University of Washington-Seattle](http://www.uw.edu/sefs)
 
-- Certificate, Nonprofit Management program[UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate)
+- Certificate, Nonprofit Management program, [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate)
 
 - MSc, Environment & Natural Resources, Makerere University, Kampala, Uganda
 
