@@ -35,6 +35,16 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 **2015**
 - October - [Wildlife Conservation Network](http://www.wildnet.org) Expo
 
+### Work Experience
+- Senior Field Officer (WILD Project), [Wildlife Conservation Society (WCS)](https://www.wcs.org), 2009 - 2012
+    - Supervised field activities for WILD Program which included working with communities in close proximity to protected areas to identify suitable alternative livelihoods that would reduce human-wildlife conflict.
+    - Participated in Environmental Impact Assessment review for oil development projects.
+
+
+- Farm Manager and Estate Director, Bosemba Farm, 2005 - 2008
+
+  - Supervised day-to-day operations of rural farm.
+
 ### Education
 - PhD candidate, [University of Washington-Seattle](http://www.uw.edu/sefs)
 
@@ -50,16 +60,19 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 - 2013 - [Wildlife Conservation Network Scholarship](https://wildnet.org/what-we-do/scholarships)
 
-- 2011 - [Beinecke African Scholarship](http://fdnweb.org/beinecke/scholarships/africa/) - in partnership with Wildlife Conservation Society
+- 2011 - [Beinecke African Scholarship](http://fdnweb.org/beinecke/scholarships/africa/), in partnership with [Wildlife Conservation Society (WCS)](https://www.wcs.org)
 
-- 2009 - [Tropical Biology Association](http://www.tropical-biology.org/) Scholarship
+- 2009 - [Tropical Biology Association Scholarship](http://www.tropical-biology.org/)
 
 
-### Advisory Board / Affiliations
+### Leadership Roles
 - Advisory Board, [Initiative for Peer Education on Climate Change (IPECC)](https://www.ipecc.org/about)
 
 - President, [Tusubira - We Have Hope Inc.](http://www.tusubira.org/board/)
 
+<!-- - Board Member, [Western Wildlife Outreach](http://www.westernwildlife.org)  -->
+
 - Member, [UW International Forestry Students' Association (IFSA)](http://students.washington.edu/ifsa/members/ifsa-officers)
+
 ### Contact me
 [cbogezi@uw.edu](mailto:cbogezi@uw.edu)
