@@ -25,12 +25,12 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 **2016**
 - November - OneHealth Day presentation [(video)](https://www.facebook.com/centerforonehealthresearch/videos/1311889112175747), Center for One Health Research, University of Washington     
 - October - [Student Conference on Conservation Science](http://www.amnh.org/var/ezflow_site/storage/images/sccs-ny-2016-presentation-1/2547309-1-eng-US/sccs-ny-2016-presentation-1.jpg)- New York, NY
-- September - Bullitt Environmental Prize Fellowship
+- September - [Bullitt Environmental Prize Fellowship](http://www.bullitt.org/2016/09/12/10th-bullitt-environmental-prize-recognizes-wildlife-conservation-leader/)
   - related press:
     - [Seattle Times](http://www.seattletimes.com/)
     - [NPR](http://www.npr.org)
 - June - invited speaker at [Safari West](http://www.safariwest.com/), Santa Rosa, California
-- March - Graduate Student Symposium [UW SEFS](http://www.cfr.washington.edu/):  *What fosters ranchers' commitment to participate in wolf conflict mitigation strategies?*
+- March - [Graduate Student Symposium, UW SEFS (PDF)](http://www.sefs.washington.edu/academicPrograms/graduate/gssresources/program2016GSS.pdf):  *What fosters ranchers' commitment to participate in wolf conflict mitigation strategies?*
 
 **2015**
 - October - [Wildlife Conservation Network](http://www.wildnet.org) Expo
@@ -50,10 +50,16 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 - 2013 - [Wildlife Conservation Network Scholarship](https://wildnet.org/what-we-do/scholarships)
 
-- 2011 - Beinecke Africa Wildlife Conservation Scholarship ([Wildlife Conservation Society](http://www.wcs.org))
+- 2011 - [Beinecke African Scholarship](http://fdnweb.org/beinecke/scholarships/africa/) - in partnership with Wildlife Conservation Society
 
 - 2009 - [Tropical Biology Association](http://www.tropical-biology.org/) Scholarship
 
 
+### Advisory Board / Affiliations
+- Advisory Board, [Initiative for Peer Education on Climate Change (IPECC)](https://www.ipecc.org/about)
+
+- President, [Tusubira - We Have Hope Inc.](http://www.tusubira.org/board/)
+
+- Member, [UW International Forestry Students' Association (IFSA)](http://students.washington.edu/ifsa/members/ifsa-officers)
 ### Contact me
 [cbogezi@uw.edu](mailto:cbogezi@uw.edu)
