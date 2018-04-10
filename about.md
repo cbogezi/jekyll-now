@@ -15,6 +15,9 @@ In 2016, the Bullitt Foundation awarded me their 10th annual Environmental Leade
 The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my home country of Uganda.
 
 ### Recent Talks / Conferences
+**2018**
+- April (*upcoming!!*) - invited speaker at [Sedona Wolf Week](https://www.planb.foundation/Speaker/79/Carol-Bogezi), Sedona, AZ
+
 **2017**
 - June - invited speaker at [Olympic Natural Resources Center](http://www.onrc.washington.edu/), Forks, WA
 - May - invited speaker for STEM Fair at Sammamish High School, Bellevue, WA
@@ -56,6 +59,8 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 
 ### Awards / Scholarships
+- 2018 - [UW Husky 100](https://www.washington.edu/husky100/#name=carol-bogezi)
+
 - 2016 - [Bullitt Environmental Prize Fellowship](http://www.bullitt.org/programs/environmental-fellowship/)
 
 - 2013 - [Wildlife Conservation Network Scholarship](https://wildnet.org/what-we-do/scholarships)
