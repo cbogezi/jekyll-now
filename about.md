@@ -16,7 +16,8 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 ### Recent Talks / Conferences
 **2018**
-- April (*upcoming!!*) - invited speaker at [Sedona Wolf Week](https://www.planb.foundation/Speaker/79/Carol-Bogezi), Sedona, AZ
+- April - invited speaker at [Sedona Wolf Week](https://www.planb.foundation/Speaker/79/Carol-Bogezi), Sedona, AZ
+- April - invited speaker at [University Sunrise Rotary Club](https://usrotary.org/carol-bogezi-human-carnivore-interaction-a-place-to-start/), Seattle, WA
 
 **2017**
 - June - invited speaker at [Olympic Natural Resources Center](http://www.onrc.washington.edu/), Forks, WA
