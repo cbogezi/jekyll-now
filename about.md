@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -16,6 +16,7 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
 
 ### Recent Talks / Conferences
 **2018**
+- July - conference presentation at [Society for Conservation GIS](https://www.scgis.org/), Monterey, CA
 - April - invited speaker at [Sedona Wolf Week](https://www.planb.foundation/Speaker/79/Carol-Bogezi), Sedona, AZ
 - April - [*Explorist* podcast: (4/8/2018),](https://www.theexplorist.com/episodes/theres-something-about-the-wolf) Episode 5, starting at 22:58 - 29:10.
 - April - invited speaker at [University Sunrise Rotary Club](https://usrotary.org/carol-bogezi-human-carnivore-interaction-a-place-to-start/), Seattle, WA
@@ -51,9 +52,9 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
   - Supervised day-to-day operations of rural farm.
 
 ### Education
-- PhD candidate, [University of Washington-Seattle](http://www.uw.edu/sefs)
+- PhD candidate, [University of Washington](http://www.uw.edu/sefs) School of Environment and Forest Sciences; Seattle, Washington
 
-- Certificate, Nonprofit Management program, [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate)
+- Certificate, Nonprofit Management program, [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate); Seattle, Washington
 
 - MSc, Environment & Natural Resources, Makerere University, Kampala, Uganda
 
