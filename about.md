@@ -52,11 +52,11 @@ The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my
   - Supervised day-to-day operations of rural farm.
 
 ### Education
-- PhD candidate, [University of Washington](http://www.uw.edu/sefs) School of Environment and Forest Sciences; Seattle, Washington
+- PhD candidate, School of Environment and Forest Sciences; [University of Washington](http://www.uw.edu/sefs), Seattle, Washington
 
-- Certificate, Nonprofit Management program, [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate); Seattle, Washington
+- Certificate, Nonprofit Management program; [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate), Seattle, Washington
 
-- MSc, Environment & Natural Resources, Makerere University, Kampala, Uganda
+- MSc, Environment & Natural Resources; Makerere University, Kampala, Uganda
 
 - BSc, Zoology (Major); Botany & Psychology (Minor); Makerere University, Kampala, Uganda
 
