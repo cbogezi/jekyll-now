@@ -8,22 +8,22 @@ I perform interdisciplinary research on wildlife conservation issues, particular
 
 ### More Information
 
-I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My Urban Ecology lab advisor is [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10).
+I am currently a graduate student at the [University of Washington-Seattle](http:/www.uw.edu) School of Environment and Forest Sciences [SEFS](http://www.cfr.washington.edu/). My Urban Ecology lab advisor is [Dr. John Marzluff](http://apps.sefs.uw.edu/Public/People/FacultyProfile.aspx?PID=10)  secured a grant for the ["Feasibility of a Wolf Economy"](https://reeis.usda.gov/web/crisprojectpages/0232727-feasibility-of-a-wolf-economy-for-washington.html) that formed the basis of my dissertation.
 
-In 2016, the Bullitt Foundation awarded me their 10th annual Environmental Leadership prize. The Bullitt prize is a huge honor for me and encourages me to continue investing in conservation, environment, and education.
+In 2016, the [Bullitt Foundation](http://www.bullitt.org) awarded me their 10th annual Environmental Leadership prize. The Bullitt prize is a huge honor for me and encourages me to continue investing in conservation, environment, and education.
 
-The *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my home country of Uganda.
+Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of the "Top 40 Women Under 40" in my home country of Uganda.
 
 ### Recent Talks / Conferences
 **2018**
-- July - conference presentation at [Society for Conservation GIS](https://www.scgis.org/), Monterey, CA
+- July - presented *“The role of landscape connectivity features in cougar-human interactions in exurban areas”* at [Society for Conservation GIS](https://www.scgis.org/), Monterey, CA
+- May - invited keynote speaker for [STEM (science, technology, engineering, and mathematics) Career Fair](https://bsd405.org/sammamish/2018/05/stem-career-fair/) at Sammamish High School, Bellevue, WA
 - April - invited speaker at [Sedona Wolf Week](https://www.planb.foundation/Speaker/79/Carol-Bogezi), Sedona, AZ
 - April - [*Explorist* podcast: (4/8/2018),](https://www.theexplorist.com/episodes/theres-something-about-the-wolf) Episode 5, starting at 22:58 - 29:10.
 - April - invited speaker at [University Sunrise Rotary Club](https://usrotary.org/carol-bogezi-human-carnivore-interaction-a-place-to-start/), Seattle, WA
 
 **2017**
 - June - invited speaker at [Olympic Natural Resources Center](http://www.onrc.washington.edu/), Forks, WA
-- May - invited speaker for STEM Fair at Sammamish High School, Bellevue, WA
 - May - keynote at Central Washington University, Ellensburg, WA
 - February - invited speaker at [Methow Valley Conservancy](http://www.methowarts.org/understanding-human-carnivore-interactions), Twisp, WA
 - February - [PRI article and interview](https://www.pri.org/stories/2017-02-24/how-washington-ranchers-are-learning-cope-wolves-lessons-uganda)
