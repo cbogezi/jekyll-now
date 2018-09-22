@@ -46,7 +46,6 @@ Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of t
     - Supervised field activities for WILD Program which included working with communities in close proximity to protected areas to identify suitable alternative livelihoods that would reduce human-wildlife conflict.
     - Participated in Environmental Impact Assessment review for oil development projects.
 
-
 - Farm Manager and Estate Director, Bosemba Farm, 2005 - 2008
 
   - Supervised day-to-day operations of rural farm.
