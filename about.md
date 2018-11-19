@@ -17,7 +17,7 @@ Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of t
 ### Recent Talks / Conferences
 **2018**
 - September - presented [*"Wildlife Friendly Certification: Promoting Conservation, Community Livelihoods, and Responsible Sourcing"*](http://annual.aza.org/profile.cfm?profile_name=session&master_key=57C47E4A-F04D-A206-2B64-79B721518000&page_key=C5F8D10B-F04D-A206-2B64-A48F47734394&xtemplate) on behalf of Wildlife Friendly Enterprise Network at Aquariums and Zoos Association (AZA) 2018 Annual Conference, Seattle, WA
-- September - presented *"Kidepo Valley's Crocodiles"* at the [Ugandan North American Association](https://www.unaaonline.org/seattle2018) convention, Bellevue, WA
+- September - presented *"Tourism Opportunities in northern Uganda"* at the [Ugandan North American Association](https://www.unaaonline.org/seattle2018) convention, Bellevue, WA
 - July - presented *“The role of landscape connectivity features in cougar-human interactions in exurban areas”* at [Society for Conservation GIS](https://www.scgis.org/), Monterey, CA
 - May - invited keynote speaker for [STEM (science, technology, engineering, and mathematics) Career Fair](https://bsd405.org/sammamish/2018/05/stem-career-fair/) at Sammamish High School, Bellevue, WA
 - April - invited speaker at [Sedona Wolf Week](https://www.planb.foundation/Speaker/79/Carol-Bogezi), Sedona, AZ
