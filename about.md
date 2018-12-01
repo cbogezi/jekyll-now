@@ -16,6 +16,7 @@ Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of t
 
 ### Recent Talks / Conferences
 **2018**
+- November - Final Exam presentation: [*Interactions between People and Carnivores in Washington state*](http://www.sefs.washington.edu/tools/internalCalendar.shtml#/?i=1), University of Washington, School of Environment and Forest Sciences
 - September - presented [*"Wildlife Friendly Certification: Promoting Conservation, Community Livelihoods, and Responsible Sourcing"*](http://annual.aza.org/profile.cfm?profile_name=session&master_key=57C47E4A-F04D-A206-2B64-79B721518000&page_key=C5F8D10B-F04D-A206-2B64-A48F47734394&xtemplate) on behalf of Wildlife Friendly Enterprise Network at Aquariums and Zoos Association (AZA) 2018 Annual Conference, Seattle, WA
 - September - presented *"Tourism Opportunities in northern Uganda"* at the [Ugandan North American Association](https://www.unaaonline.org/seattle2018) convention, Bellevue, WA
 - July - presented *“The role of landscape connectivity features in cougar-human interactions in exurban areas”* at [Society for Conservation GIS](https://www.scgis.org/), Monterey, CA
