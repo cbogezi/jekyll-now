@@ -56,7 +56,7 @@ Following on the Bullitt prize, the *Sunday Monitor* newspaper named me one of t
 
 ### Education
 - PhD candidate, School of Environment and Forest Sciences; [University of Washington](http://www.uw.edu/sefs), Seattle, Washington
-> Dissertation: *Human and Carnivore Interactions in Washington State.*
+> Dissertation: *Interactions between People and Carnivores in Washington state.*
 
 - Certificate, Nonprofit Management program; [UW Evans School of Public Policy](https://evans.uw.edu/academic-programs/certificates-uw-graduate-students/nonprofit-management-certificate), Seattle, Washington
 
